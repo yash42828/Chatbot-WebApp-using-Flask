@@ -1,5 +1,7 @@
 # ChatBot💬 WebApp in Python using Flask
-CoronaBot is a chat bot for answering question regarding Coronavirus
+ChatterBot is a machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations. The language independent design of ChatterBot allows it to be trained to speak any language.
+
+The idea of this project was not to create some chatbot with exceptional cognitive skills but just to utilise and test my Python skills.This was one of my projects, created when I just stepped into the world of NLP and I thought of creating a simple chatbot just to make use of my newly acquired knowledge.
 
 ## Installation:-
 
