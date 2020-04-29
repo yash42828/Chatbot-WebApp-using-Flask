@@ -1,6 +1,7 @@
 # ChatBot💬 WebApp in Python using Flask
 CoronaBot is a chat bot for answering question regarding Coronavirus
 
+## Installation:-
 
 `pip install Flask`
 
@@ -8,9 +9,25 @@ CoronaBot is a chat bot for answering question regarding Coronavirus
 
 `pip install chatterbot-corpus`
 
-or 
+## To run in Anaconda:-
+### Installing chatterbot in conda environment using Python 3.7
+Create new conda environment with Python 3.7
 
-`pip install -r requirements.txt`
+`conda create --name chatterbot_example python=3.7`
+### Activate the environment:
+`conda activate chatterbot_example`
+### Install chatterbot and chatterbot-corpus inside the environment:
+`pip install chatterbot`
+`pip install chatterbot-corpus`
+`pip install Flask`
+
+## Run the file:-
+`python app.py`
+
+## Screenshots
+![Header Image](2.png)
+![Header Image](1.png)
+
 
 ## Notes:- 
 - **This is just basic chatbot, you can improve chatbot learning. Read [documentation](https://pypi.org/project/ChatterBot/)**
